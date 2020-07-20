@@ -1,1 +1,1 @@
-# WhordCharCounter
+# WordCharCounter
